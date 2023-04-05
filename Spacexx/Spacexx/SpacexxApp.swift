@@ -1,0 +1,17 @@
+//
+//  SpacexxApp.swift
+//  Spacexx
+//
+//  Created by Mohammed Mubashir on 29/03/23.
+//
+
+import SwiftUI
+
+@main
+struct SpacexxApp: App {
+    var body: some Scene {
+        WindowGroup {
+            ContentView()
+        }
+    }
+}
